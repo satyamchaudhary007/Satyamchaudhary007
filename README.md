@@ -28,7 +28,7 @@ Hi 👋, I'm Satyam Kumar
 
 📫 Contact Me
 
-📧 Email: satyam.kumar134810@marwadiuniversity.ac.in
+📧 Email: satyamchaudhary9334@gmail.com
 📍 Location: Rajkot, Gujarat, India
 
 ---
