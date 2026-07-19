@@ -15,6 +15,8 @@ Hi 👋, I'm Satyam Kumar
 - Git and GitHub
 - DBMS (Basics)
 - HTML (Learning)
+-  CSS (Learning)
+-  JS  (Learning)
 - Problem Solving
 
 ---
