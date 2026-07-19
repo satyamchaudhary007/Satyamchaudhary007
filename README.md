@@ -1,7 +1,7 @@
 Hi 👋, I'm Satyam Kumar
 
 🎓 BCA Student at Marwadi University
-💻 I’m currently learning C Programming, DBMS and Web Development
+💻 I’m currently learning C Programming, JAVA Programming , DBMS and Web Development
 🚀 Passionate about Coding & Technology
 🌱 Beginner in Open Source
 🎯 Goal: To become a Skilled Software Developer
@@ -11,6 +11,8 @@ Hi 👋, I'm Satyam Kumar
 🧠 Skills
 
 - C Programming
+- JAVA Programming
+- Git and GitHub
 - DBMS (Basics)
 - HTML (Learning)
 - Problem Solving
